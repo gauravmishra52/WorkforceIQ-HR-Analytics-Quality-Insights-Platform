@@ -1,4 +1,4 @@
-# 📊 HR Analytics Dashboard with QA Testing using PostgreSQL
+# 📊 WorkforceIQ – HR Analytics & Quality Insights Platform
 # 📜 OBJECTIVE
 
 Help an organization to improve employee performance and improve retention (reduce attrition) by creating an HR Analytics dashboard. This interactive dashboard provides valuable insights into various HR metrics and helps in analyzing employee attrition within the company. The objective is to assist HR professionals and management in making informed decisions based on the provided information. This project involvs the creation of an HR Database in PostgreSQL,crafting queries,and developing a quality assurance testing document to ensure the quality of the project.
@@ -54,6 +54,8 @@ Created an HR Database in Postgre SQL, crafted SQL queries and created a quality
 * FUNCTIONAL VALIDATION: Test each feature work as per the requirement. To verify all the filters and Action Filters on the report work as per the requirement.
 * DATA VALIDATION: Checked accuracy and quality of data in order To match the values in Power BI/Tableau report with SQL queries.
 * TESTING REPORT : Created a Test document containing the screenshots and queries used to test the reports.
+
+ Future enhancements include machine learning models for predicting attrition and providing employee retention recommendations.
 
 # 💼 TABLEAU DASHBOARD:
 ![Dashboard Preview](Tableau/Dashboard.png)
